@@ -72,15 +72,3 @@ Made with ❤️ by Hossein Shakouri
 
 yaml
 Copy code
-
----
-
-حالا کافیه:  
-
-1. این متن رو **در یک فایل به اسم `README.md`** ذخیره کنی  
-2. دستورات Git رو اجرا کنی تا Push بشه:  
-
-```bash
-git add README.md
-git commit -m "Update README.md with nice formatting"
-git push origin main
